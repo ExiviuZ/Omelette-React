@@ -6,7 +6,7 @@ function App() {
     <>
       <main className="text-[16px] font-[500] sm:my-[2rem] max-w-[600px] w-[100%] p-[0] sm:p-[2rem] text-neut-wenge-brown bg-neut-white sm:rounded-[10px] pb-[1rem] mx-auto">
         <img
-          src="/public/images/image-omelette.jpeg"
+          src="images/image-omelette.jpeg"
           alt=""
           className="sm:rounded-[10px] w-[100%]"
         />
